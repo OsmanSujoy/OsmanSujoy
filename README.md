@@ -1,8 +1,10 @@
 # Hi there, I'm Osman :wave:
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=osmansujoy&show_icons=true&theme=algolia" />
+## 🔓 Public Repos:
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=osmansujoy&count_private=true&show_icons=true&theme=algolia" />
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmansujoy&layout=compact" /><br />
+
 
 ## 📑 Skills:
 ### 📋 Languages:
